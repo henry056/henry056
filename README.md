@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#8A2BE2&height=300&section=header&text=dkkdkddkdkdk&fontSize=90&" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#8A2BE2&height=1000&section=header&text=dkkdkddkdkdk&fontSize=90" />
 </div>
